@@ -1,16 +1,21 @@
-# 🎬 ExpoFlix
+# ExpoFlix
 
-Projeto inspirado em uma plataforma de streaming (tipo Netflix), desenvolvido para fins acadêmicos.
+O ExpoFlix é um projeto inspirado em plataformas de streaming, como a Netflix, desenvolvido com o objetivo de praticar e evoluir minhas habilidades em desenvolvimento.
 
-## 🚀 Funcionalidades
-- Listagem de filmes/séries
-- Interface inspirada em streaming
-- Navegação entre páginas
+## Sobre o projeto
+A proposta foi criar uma interface simples e agradável, simulando a experiência de navegar por filmes e séries em uma plataforma de streaming.
 
-## 🛠️ Tecnologias
-- HTML / CSS / JavaScript
+## Funcionalidades
+- Listagem de filmes e séries  
+- Interface inspirada em plataformas reais  
+- Navegação entre páginas  
 
-## 📦 Como rodar o projeto
+## Tecnologias utilizadas
+- HTML / CSS / JavaScript  
+
+## Como executar o projeto
+Para rodar o projeto localmente:
+
 ```bash
 npm install
 npm start
